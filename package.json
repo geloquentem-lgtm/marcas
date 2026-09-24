@@ -1,0 +1,24 @@
+{
+  "name": "marcas",
+  "version": "1.0.0",
+  "description": "marcas",
+  "homepage": "https://github.com/geloquentem-lgtm/marcas#readme",
+  "bugs": {
+    "url": "https://github.com/geloquentem-lgtm/marcas/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geloquentem-lgtm/marcas.git"
+  },
+  "license": "ISC",
+  "author": "matheus",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node indexjs"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
